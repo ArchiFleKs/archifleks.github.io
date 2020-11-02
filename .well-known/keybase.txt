@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/archifleks
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://archifleks.github.io
+  * I am archifleks (https://keybase.io/archifleks) on keybase.
+  * I have a public key ASAAJgAcqZE7wmhbA5ry-mBDBELbH5PpesEVCvHpsxB7Rgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012068d38231084dfeaf4dc663ca1ce3d91aaa1b5eca46e2ae4c47b6c27f93615def0a",
+      "host": "keybase.io",
+      "kid": "01200026001ca9913bc2685b039af2fa60430442db1f93e97ac1150af1e9b3107b460a",
+      "uid": "0ceb95d2174a0404316f7dd5892e9700",
+      "username": "archifleks"
+    },
+    "merkle_root": {
+      "ctime": 1577977871,
+      "hash": "0f8c337ff9f06d18c3d020a5d8f493e811fe79aa81ec1866dfeb36ff841705a0d9aea877ab77481ac39c8e434bd726b26c2ba9930f03354eed44b6e7cd496c1b",
+      "hash_meta": "a40ec82117d08d2e526351ef0a9093cf6539f33933c5bda2e1845598d79891e3",
+      "seqno": 14054027
+    },
+    "service": {
+      "entropy": "f512CxBNJVFsgfLnY6El0yoN",
+      "hostname": "archifleks.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.1.1"
+  },
+  "ctime": 1577977885,
+  "expire_in": 504576000,
+  "prev": "8b745e409fb3b13b299f35875d464b83af755a72a6170b9eeeedbe60cf2906fa",
+  "seqno": 67,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgACYAHKmRO8JoWwOa8vpgQwRC2x+T6XrBFQrx6bMQe0YKp3BheWxvYWTESpcCQ8Qgi3ReQJ+zsTspnzWHXUZLg691WnKmFwue7u2+YM8pBvrEIM3EX8knlzQuvRqBaAsjz5tcyeMAd2GZYMRd+UZ8cyx1AgHCo3NpZ8RAwlCKptlzDlaL8BVW0BrIs2gYXxNRpZmH1uvJY0XLhaINvKtWTmWpva2C/jVps41TrgrEk+KgYOAjAjeJreGQD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIAyeS/NdQ0H7rMo9Y3fpE5pACZn8lyDMqMFSAAcPadf4o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/archifleks
+
+==================================================================
